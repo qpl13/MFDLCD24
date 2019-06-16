@@ -1,6 +1,6 @@
 # LCD24
-
 2.4 INCH TFTLCD FOR MICROBIT
+
 IC:ILI9340
 mcufriend
 
