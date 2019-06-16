@@ -1,0 +1,25 @@
+{
+    "name": "LCD1in8",
+    "version": "0.0.0",
+    "description": "Welcome  to  Mcufriend",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "LCD24.ts",
+        "LCD24.cpp",
+        "LCD_Driver.cpp",
+        "LCD_Driver.h",
+        "SPI_RAM.cpp",
+        "SPI_RAM.h",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT"
+}
