@@ -1,7 +1,8 @@
-# LCD1in8
+# LCD24
 
+2.4 INCH TFTLCD FOR MICROBIT
+IC:ILI9340
 mcufriend
-
 
 # Package product
 http://www.mcufriend.com
